@@ -1,3 +1,5 @@
+![omarchy-aikit banner](.github/banner.png)
+
 # AI Kit
 
 [![ci](https://github.com/macarchy/omarchy-aikit/actions/workflows/ci.yml/badge.svg)](https://github.com/macarchy/omarchy-aikit/actions/workflows/ci.yml)
